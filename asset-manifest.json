@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mksvk/MY_WAYS/static/css/main.c77d44fe.css",
+    "main.js": "/mksvk/MY_WAYS/static/js/main.6bf7a438.js",
+    "index.html": "/mksvk/MY_WAYS/index.html",
+    "main.c77d44fe.css.map": "/mksvk/MY_WAYS/static/css/main.c77d44fe.css.map",
+    "main.6bf7a438.js.map": "/mksvk/MY_WAYS/static/js/main.6bf7a438.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77d44fe.css",
+    "static/js/main.6bf7a438.js"
+  ]
+}
